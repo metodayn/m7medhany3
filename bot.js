@@ -54,7 +54,8 @@ client2.on('message', message => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!555') {
+if (message.content === '!XQ2
+    ') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -68,7 +69,7 @@ if (message.content === '!555') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!555') {
+if (message.content === '!XQ2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
